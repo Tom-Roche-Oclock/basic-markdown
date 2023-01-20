@@ -4,18 +4,22 @@ Les niveaux de titre sont définis par des # (1 à 6)
 
 ## 1. Quelques styles de texte
 
+**Note :** Pour revenir à la ligne il faut utiliser la balise `<br>`<br>
+Appuyer sur `entrée` ne suffit pas <br>
+Sauter une ligne crée un nouveau paragraphe.
+
 
 ### 1.1. Ecrire en italique
 Pour écrire en italique on entoure les mots ou les expressions par le symbole * ou _ <br>
-Par exemple dans cette phrase, *il y'a de l'italique*
+Par exemple dans cette phrase, *il y'a de l'italique* <br>
 Ici également on trouve un mot en _italique_
 
 ### 1.2. Ecrire en gras
 Pour écrire en gras, on utilise le symbole ** ou __ <br>
-Dans cette phrase il y'a un mot en **gras**, on peut aussi faire du gras __comme ceci__
+Dans cette phrase il y'a un mot en **gras**, on peut aussi faire du gras __comme ceci__ 
 
 ### 1.3. Texte barré
-Mince j'ai fait une erreur, le chat est ~~rouge~~ vert ! `#FF0000`
+Mince j'ai fait une erreur, le chat est ~~rouge~~ vert !
 
 ### 1.4. Définir une citation
 Le journaliste de France 2 :
@@ -57,7 +61,7 @@ body {
 ```
 
 ### 2.3. Liens
-Les liens sont interpretés automoatiquement comme tels :
+Les liens sont interpretés automatiquement comme tels :
 https://dillinger.io/
 
 Il est possible de personnaliser le texte d'affichage du lien :
