@@ -97,4 +97,6 @@ Emojis :
 :rocket:
 
 ### 2.9. Echapper un caractère
-Je veux entourer un mot avec deux étoiles sans que ce mot soit en italique : \*Etoile\*. Il suffit de placer un antislash =>  \" \ \" avant le caractère que l'on ne souhaite pas interprété.
+Je veux entourer un mot avec deux étoiles sans que ce mot soit en italique : par éxemple \*Etoile\*. <br>
+Il suffit de placer un antislash :  `\` avant le caractère que l'on ne souhaite pas interpréter.<br>
+ex: `\*Etoile\*`
